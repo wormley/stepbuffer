@@ -1,0 +1,40 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# GND-SilentStepStick-TMC5160_v14-eagle-import
+#
+DEF GND-SilentStepStick-TMC5160_v14-eagle-import #GND 0 40 Y Y 1 L P
+F0 "#GND" 0 0 50 H I C CNN
+F1 "GND-SilentStepStick-TMC5160_v14-eagle-import" -100 -100 59 H V L BNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+P 2 1 0 0 -75 0 75 0 N
+X GND 1 0 100 100 D 0 0 1 0 W
+ENDDRAW
+ENDDEF
+#
+# PINHD-1X08_2.54-S-SilentStepStick-TMC5160_v14-eagle-import
+#
+DEF PINHD-1X08_2.54-S-SilentStepStick-TMC5160_v14-eagle-import JP 0 40 Y Y 1 L N
+F0 "JP" -250 525 59 H V L BNN
+F1 "PINHD-1X08_2.54-S-SilentStepStick-TMC5160_v14-eagle-import" -250 -500 59 H V L BNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+P 2 1 0 0 -250 -400 50 -400 N
+P 2 1 0 0 -250 500 -250 -400 N
+P 2 1 0 0 50 -400 50 500 N
+P 2 1 0 0 50 500 -250 500 N
+X 1 1 -100 400 100 R 50 0 1 0 P I
+X 2 2 -100 300 100 R 50 0 1 0 P I
+X 3 3 -100 200 100 R 50 0 1 0 P I
+X 4 4 -100 100 100 R 50 0 1 0 P I
+X 5 5 -100 0 100 R 50 0 1 0 P I
+X 6 6 -100 -100 100 R 50 0 1 0 P I
+X 7 7 -100 -200 100 R 50 0 1 0 P I
+X 8 8 -100 -300 100 R 50 0 1 0 P I
+ENDDRAW
+ENDDEF
+#
+#End Library
