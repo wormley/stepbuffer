@@ -85,11 +85,11 @@ X ~ 2 0 -150 110 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# SilentStepStick-TMC5160_v14-eagle-import_GND
+# stepbuffer1-rescue_GND-SilentStepStick-TMC5160_v14-eagle-import
 #
-DEF SilentStepStick-TMC5160_v14-eagle-import_GND #GND 0 40 Y Y 1 L P
+DEF stepbuffer1-rescue_GND-SilentStepStick-TMC5160_v14-eagle-import #GND 0 40 Y Y 1 L P
 F0 "#GND" 0 0 50 H I C CNN
-F1 "SilentStepStick-TMC5160_v14-eagle-import_GND" -100 -100 59 H V L BNN
+F1 "stepbuffer1-rescue_GND-SilentStepStick-TMC5160_v14-eagle-import" -100 -100 59 H V L BNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 DRAW
@@ -98,11 +98,11 @@ X GND 1 0 100 100 D 0 0 1 0 W
 ENDDRAW
 ENDDEF
 #
-# SilentStepStick-TMC5160_v14-eagle-import_PINHD-1X08_2.54-S
+# stepbuffer1-rescue_PINHD-1X08_2.54-S-SilentStepStick-TMC5160_v14-eagle-import
 #
-DEF SilentStepStick-TMC5160_v14-eagle-import_PINHD-1X08_2.54-S JP 0 40 Y Y 1 L N
+DEF stepbuffer1-rescue_PINHD-1X08_2.54-S-SilentStepStick-TMC5160_v14-eagle-import JP 0 40 Y Y 1 L N
 F0 "JP" -250 525 59 H V L BNN
-F1 "SilentStepStick-TMC5160_v14-eagle-import_PINHD-1X08_2.54-S" -250 -500 59 H V L BNN
+F1 "stepbuffer1-rescue_PINHD-1X08_2.54-S-SilentStepStick-TMC5160_v14-eagle-import" -250 -500 59 H V L BNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 DRAW

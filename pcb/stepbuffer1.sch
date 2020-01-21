@@ -67,7 +67,7 @@ Wire Wire Line
 Text Label 2450 4650 0    50   ~ 0
 DCO
 $Comp
-L SilentStepStick-TMC5160_v14-eagle-import:GND #GND010
+L stepbuffer1-rescue:GND-SilentStepStick-TMC5160_v14-eagle-import #GND010
 U 1 1 845C69E3
 P 2200 7300
 F 0 "#GND010" H 2200 7300 50  0001 C CNN
@@ -78,7 +78,7 @@ F 3 "" H 2200 7300 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L SilentStepStick-TMC5160_v14-eagle-import:PINHD-1X08_2.54-S P1
+L stepbuffer1-rescue:PINHD-1X08_2.54-S-SilentStepStick-TMC5160_v14-eagle-import P1
 U 1 1 D245C58C
 P 1850 4850
 F 0 "P1" H 1600 5375 59  0000 L BNN
@@ -89,7 +89,7 @@ F 3 "" H 1850 4850 50  0001 C CNN
 	-1   0    0    -1  
 $EndComp
 $Comp
-L SilentStepStick-TMC5160_v14-eagle-import:PINHD-1X08_2.54-S P2
+L stepbuffer1-rescue:PINHD-1X08_2.54-S-SilentStepStick-TMC5160_v14-eagle-import P2
 U 1 1 2560E369
 P 1850 6700
 F 0 "P2" H 1600 7225 59  0000 L BNN
@@ -170,7 +170,7 @@ Wire Wire Line
 Wire Wire Line
 	4350 6100 4650 6100
 $Comp
-L SilentStepStick-TMC5160_v14-eagle-import:GND #GND0101
+L stepbuffer1-rescue:GND-SilentStepStick-TMC5160_v14-eagle-import #GND0101
 U 1 1 5E22436D
 P 4700 7250
 F 0 "#GND0101" H 4700 7250 50  0001 C CNN

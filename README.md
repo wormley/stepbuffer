@@ -1,3 +1,5 @@
+KiCad File Formats
+
 This is a Step Stick style adapter with a level shifter/buffer
 to allow boards with low current and/or 3.3v outputs to feed
 off-board drivers.
@@ -18,3 +20,10 @@ Else connect +5v and ground if needed to the header pins.
 
 The Buffer Chip:
 http://www.ti.com/product/SN74LV4T125/technicaldocuments
+
+The schematic has a polarized capacitor just in case someone wants 
+to use one. A standard MLCC is fine.
+
+The 6 pin header can be left out and a 2 pin header used if externally
+powered. Or hard wire the holes for desired power.
+
