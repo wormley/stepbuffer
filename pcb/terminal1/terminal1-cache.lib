@@ -1,0 +1,47 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# 39773-0004_39773-0004
+#
+DEF 39773-0004_39773-0004 J 0 30 Y Y 1 F N
+F0 "J" 650 300 50 H V L CNN
+F1 "39773-0004_39773-0004" 650 200 50 H V L CNN
+F2 "SHDR4W80P0X254_1X4_1062X650X1010P" 650 100 50 H I L CNN
+F3 "https://www.mouser.com/datasheet/2/276/397730002_sd-1378779.pdf" 650 0 50 H I L CNN
+F4 "Fixed Terminal Blocks 2.54mm Eurostyle Fxd TB Mnt PCB 4Ckt Grn" 650 -100 50 H I L CNN "Description"
+F5 "10.1" 650 -200 50 H I L CNN "Height"
+F6 "Molex" 650 -300 50 H I L CNN "Manufacturer_Name"
+F7 "39773-0004" 650 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "538-39773-0004" 650 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.com/Search/Refine.aspx?Keyword=538-39773-0004" 650 -600 50 H I L CNN "Mouser Price/Stock"
+DRAW
+P 5 0 1 6 200 100 600 100 600 -400 200 -400 200 100 N
+X 1 1 0 0 200 R 50 50 0 0 U
+X 2 2 0 -100 200 R 50 50 0 0 U
+X 3 3 0 -200 200 R 50 50 0 0 U
+X 4 4 0 -300 200 R 50 50 0 0 U
+ENDDRAW
+ENDDEF
+#
+# SSW-104-01-T-S_SSW-104-01-T-S
+#
+DEF SSW-104-01-T-S_SSW-104-01-T-S J 0 30 Y Y 1 F N
+F0 "J" 650 300 50 H V L CNN
+F1 "SSW-104-01-T-S_SSW-104-01-T-S" 650 200 50 H V L CNN
+F2 "SAMTEC_SSW-104-01-T-S" 650 100 50 H I L CNN
+F3 "https://componentsearchengine.com/Datasheets/1/SSW-104-01-T-S.pdf" 650 0 50 H I L CNN
+F4 "CONN Receptacles .100 inch 4 POS SNGL ROW" 650 -100 50 H I L CNN "Description"
+F5 "200-SSW10401TS" 650 -300 50 H I L CNN "Mouser Part Number"
+F6 "https://www.mouser.com/Search/Refine.aspx?Keyword=200-SSW10401TS" 650 -400 50 H I L CNN "Mouser Price/Stock"
+F7 "SAMTEC" 650 -500 50 H I L CNN "Manufacturer_Name"
+F8 "SSW-104-01-T-S" 650 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+P 5 0 1 6 200 100 600 100 600 -400 200 -400 200 100 N
+X 1 1 0 0 200 R 50 50 0 0 U
+X 2 2 0 -100 200 R 50 50 0 0 U
+X 3 3 0 -200 200 R 50 50 0 0 U
+X 4 4 0 -300 200 R 50 50 0 0 U
+ENDDRAW
+ENDDEF
+#
+#End Library

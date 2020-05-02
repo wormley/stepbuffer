@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SSW-104-01-T-S
+D CONN Receptacles .100 inch 4 POS SNGL ROW
+K
+F https://componentsearchengine.com/Datasheets/1/SSW-104-01-T-S.pdf
+$ENDCMP
+#
+#End Doc Library

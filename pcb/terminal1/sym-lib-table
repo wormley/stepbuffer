@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name 39773-0004)(type Legacy)(uri /sauronhome/wormley/shared/git/local/stepbuffer/parts/39773-0004.lib)(options "")(descr ""))
+  (lib (name SSW-104-01-T-S)(type Legacy)(uri /sauronhome/wormley/shared/git/local/stepbuffer/parts/SSW-104-01-T-S.lib)(options "")(descr ""))
+)
